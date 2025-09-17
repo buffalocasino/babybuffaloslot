@@ -1,0 +1,292 @@
+{
+	"textures": [
+		{
+			"image": "reelicons",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1024,
+				"h": 1024
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "sym_wild_expanded.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 384
+					},
+					"frame": {
+						"x": 3,
+						"y": 3,
+						"w": 128,
+						"h": 384
+					}
+				},
+				{
+					"filename": "sym_bear.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 3,
+						"y": 393,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "sym_buffalo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 3,
+						"y": 527,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "sym_card_10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 3,
+						"y": 661,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "sym_card_9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 3,
+						"y": 795,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "sym_card_a.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 137,
+						"y": 3,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "sym_card_j.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 271,
+						"y": 3,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "sym_card_k.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 405,
+						"y": 3,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "sym_card_q.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 539,
+						"y": 3,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "sym_elk.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 673,
+						"y": 3,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "sym_scatter_free_spins.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 807,
+						"y": 3,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "sym_wild.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 137,
+						"y": 137,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "sym_wolf.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 137,
+						"y": 271,
+						"w": 128,
+						"h": 128
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
